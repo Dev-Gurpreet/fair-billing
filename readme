@@ -1,0 +1,8 @@
+Operation System - Linux
+Python version - 3.8.10
+
+command:
+./fair-biling "<your_log_file_path>"
+
+example:
+./fair-biling "samplelog.txt"
